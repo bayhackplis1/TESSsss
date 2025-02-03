@@ -1,0 +1,22 @@
+[
+    {"name": "TCP", "description": "layer 4 - Attack IP [normal]", "duration": "500"},
+    {"name": "ACK", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "CF", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "HTTP-RAND", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "CFBYPASS", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "RAPID", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "XYN", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "CHAPTCHA", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "MIX", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "TLSV2", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "TLSOP", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "TLS-KILL", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "BYPASS", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "TLS", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "HTTP-RAW", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "RAW", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "REX", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "HTTP-VIP", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "HTTPS", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "CAT", "description": "layer 7 - Attack Url [normal]", "duration": "500"}
+]
